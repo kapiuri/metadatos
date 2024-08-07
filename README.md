@@ -1,8 +1,8 @@
-# Exif Data Extractor
+# Extractor de Datos EXIF
 
 ## Descripción
 
-Exif Data Extractor es una sencilla aplicación web que permite extraer y visualizar los metadatos EXIF de una imagen. EXIF (Exchangeable Image File Format) es un estándar que especifica los formatos para los metadatos en archivos de imagen, como los datos de la cámara, la configuración y la ubicación donde se tomó la foto.
+Extractor de Datos EXIF es una sencilla aplicación web que permite extraer y visualizar los metadatos EXIF de una imagen. EXIF (Exchangeable Image File Format) es un estándar que especifica los formatos para los metadatos en archivos de imagen, como los datos de la cámara, la configuración y la ubicación donde se tomó la foto.
 
 ## Funcionalidades
 
@@ -16,7 +16,7 @@ Exif Data Extractor es una sencilla aplicación web que permite extraer y visual
    - Haz clic en el botón "Seleccionar archivo" y elige una imagen en tu dispositivo.
 
 2. **Extraer Datos EXIF:**
-   - Haz clic en el botón "Extract EXIF Data" para procesar la imagen y extraer los datos EXIF.
+   - Haz clic en el botón "Extraer Datos EXIF" para procesar la imagen y extraer los datos EXIF.
 
 3. **Ver Resultados:**
    - Los metadatos EXIF de la imagen se mostrarán en el área de texto debajo del botón.
